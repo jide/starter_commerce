@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Starter: Commerce feature.
  */
+
+include_once 'starter_commerce.features.inc';
